@@ -1,0 +1,14 @@
+apscheduler==3.10.4
+telethon
+requests==2.25.1
+gitpython
+asyncio
+hypercorn
+asgiref
+flask
+psutil
+schedule
+aiohttp
+qrcode
+pillow
+speedtest-cli
